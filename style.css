@@ -1,0 +1,43 @@
+*{
+    font-family: Helvetica, sans-serif;
+}
+
+.centerText{
+    text-align: center;
+}
+
+#listOfRecipes{
+    font-size: 22px;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+.ingredients{
+    background-color: lightgrey;
+}
+
+.ingredients-header{
+    background-color: grey;
+}
+
+.list{
+    list-style: square;
+}
+
+.ingredients li:hover{
+    background-color: black;
+    color: white;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
