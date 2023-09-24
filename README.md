@@ -11,3 +11,5 @@
  -images contain images
  -recipes contain sites with recipe
  -added 3 recipes: lasagna, pizza, spaghetti
+
+ -added CSS to all of the sites
